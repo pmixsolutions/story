@@ -1,0 +1,38 @@
+{
+    "name": "pmixsolutions/cms",
+    "description": "CMS Extension for 4pmixsolutions",
+    "keywords": ["orchestra-platform", "4pmixsolutions", "laravel", "cms"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "4Pmixsolutions",
+            "email": "4pmixsolutions@gmail.com",
+            "homepage": "https://github.com/4pmixsolutions"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "resources/database/migrations"
+        ],
+        "psr-4": {
+            "Pmixsolutions\\Story\\" : "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.6.0",
+        "erusev/parsedown": "~1.1",
+        "erusev/parsedown-extra": "~0.2",
+        "orchestra/contracts": "~3.5.x-dev",
+        "orchestra/facile": "~3.5.0",
+        "orchestra/support": "~3.5.0"
+    },
+    "require-dev": {
+        "mockery/mockery": "^0.9.1",
+        "orchestra/foundation": "~3.5.x-dev"
+    },
+    "extra": {
+       
+    },
+    
+    "minimum-stability": "dev"
+}

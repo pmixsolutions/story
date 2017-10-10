@@ -1,0 +1,16 @@
+{
+    "name": "PMixSolutions Story",
+    "description": "4pmixsolutions Story Extension",
+    "author": "pmixsolutions",
+    "url": "https://github.com/pmixsolutions/story",
+    "version": "0.0.1@dev",
+    "config": {
+        "handles": "cms"
+    },
+    "provides": [
+        "Pmixsolutions\\Story\\StoryServiceProvider",
+        "Pmixsolutions\\Story\\AuthServiceProvider",
+        "Orchestra\\Facile\\FacileServiceProvider"
+    ],
+    "plugin": "Pmixsolutions\\Story\\StoryPlugin"
+}
