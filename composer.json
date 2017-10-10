@@ -5,9 +5,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "4Pmixsolutions",
-            "email": "4pmixsolutions@gmail.com",
-            "homepage": "https://github.com/4pmixsolutions"
+            "name": "pmixsolutions",
+            "email": "pmixsolutions@gmail.com",
+            "homepage": "https://github.com/pmixsolutions"
         }
     ],
     "autoload": {
