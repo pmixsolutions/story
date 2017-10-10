@@ -1,5 +1,5 @@
 {
-    "name": "pmixsolutions/cms",
+    "name": "pmixsolutions/story",
     "description": "CMS Extension for 4pmixsolutions",
     "keywords": ["orchestra-platform", "4pmixsolutions", "laravel", "cms"],
     "license": "MIT",
